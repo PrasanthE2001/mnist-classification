@@ -33,8 +33,8 @@ There are a number of handwritten digits in the MNIST dataset. The assignment is
 
 ## PROGRAM
 ```
-Developed by: B Dhivya Shri
-Registration No.:212221230009
+Developed by: E PRASANH
+Registration No.:212221233002
 ```
 
 ## Importing the required packages
